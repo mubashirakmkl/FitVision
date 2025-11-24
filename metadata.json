@@ -1,0 +1,7 @@
+{
+  "name": "Copy of FitVision AI",
+  "description": "Visualize your weight loss journey with AI. Upload a photo and see a realistic, motivated version of yourself at your target weight using the Nano Banana model.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
